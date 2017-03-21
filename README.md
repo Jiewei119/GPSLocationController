@@ -1,0 +1,2 @@
+# GPSLocationController
+一个GPS定位控制器，基于iOS原生CLLocationManager封装
